@@ -1,4 +1,4 @@
-# Macropad-v1.1
+<img width="1919" height="774" alt="image" src="https://github.com/user-attachments/assets/daee9424-ba20-4165-95db-9c47c31bd648" /># Macropad-v1.1
 This repo will be sent to HackClub. This attempt is much better than the first one!
 Actually this project name is Sledge. I don't know why I named the repo "Macropad...."
 
@@ -29,7 +29,16 @@ Made in KiCAD
 
 
 ## BOM
+- 1x PCB
 - 1x XIAO RP2040
 - 1x EC11 Rotary Encoder
+- 7x 1N4148 Diodes
+- 6x SW Cherry MX Switches
 - 1x 0.91" 128x32 OLED Display
+- 4x M3x16mm Screws
+- 4x M3x5mm x 4mm Heatset Inserts
+- 1x Case (Bottom, Plate, Top - all are different components. Are White, red, and white, respectively)
+- 1x Knob Cap
+- 5x Keycaps 1u size
+- 1x Keycap 1.75u size
 - 
