@@ -1,4 +1,4 @@
-<img width="1919" height="774" alt="image" src="https://github.com/user-attachments/assets/daee9424-ba20-4165-95db-9c47c31bd648" /># Macropad-v1.1
+
 This repo will be sent to HackClub. This attempt is much better than the first one!
 Actually this project name is Sledge. I don't know why I named the repo "Macropad...."
 
