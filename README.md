@@ -60,3 +60,4 @@ Made in KiCAD
 - 1x Keycap 1.75u size
 
 [bom.csv](https://github.com/user-attachments/files/24339512/bom.csv)
+(OLED screen itself was not included in this file)
