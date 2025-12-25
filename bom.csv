@@ -1,0 +1,7 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"D1,D2,D3,D4,D5,D6,D10","7","1N4148","","","","Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal","https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+"J1","1","Conn_01x04_Pin","","","","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","~"
+"SW1,SW2,SW3,SW4,SW5","5","SW_Push_45deg","","","","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB","~"
+"SW6","1","SW_Push_45deg","","","","Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB","~"
+"SW10","1","RotaryEncoder_Switch_MP","","","","Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm","~"
+"U1","1","XIAO-RP2040-DIP","","","","Seeed Studio XIAO Series Library:XIAO-RP2040-DIP",""
