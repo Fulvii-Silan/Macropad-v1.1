@@ -43,6 +43,8 @@ Made in KiCAD
 
 
 
+
+
 ## BOM
 - 1x PCB
 - 1x XIAO RP2040
@@ -56,3 +58,5 @@ Made in KiCAD
 - 1x Knob Cap
 - 5x Keycaps 1u size
 - 1x Keycap 1.75u size
+
+[bom.csv](https://github.com/user-attachments/files/24339512/bom.csv)
